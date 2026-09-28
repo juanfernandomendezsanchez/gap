@@ -1,0 +1,15 @@
+{
+  "name": "Gap — Mi dinero",
+  "short_name": "Gap",
+  "description": "Gastos, deudas y plan de dinero personal",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#110F1A",
+  "theme_color": "#110F1A",
+  "lang": "es",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
